@@ -1,0 +1,47 @@
+.profile {
+  width: 100%;
+  height: 100%;
+}
+
+.imageContainer {
+  width: 20%;
+  height: 50%;
+  /* margin-left: 50%; */
+  /* margin-left: 0%;
+    margin-right: 100%; */
+}
+
+body {
+  align-items: center;
+  background-color: bisque;
+}
+
+.secondText {
+  text-align: center;
+  margin: 1em 1em;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  margin-left: 10px;
+}
+.titleText {
+  text-align: center;
+}
+
+.text{
+    text-align: center;
+    margin: 1em 1em;
+  }
+
+.textDetails{
+    margin-left: 707px;
+}
+
+.topContainer{
+/* display: flex; */
+display: flex ;
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
